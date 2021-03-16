@@ -10,3 +10,6 @@ def generate_cpf():
         cpf.append(11 - val if val > 1 else 0)
 
     return '%s%s%s.%s%s%s.%s%s%s-%s%s' % tuple(cpf)
+
+if __name__ == '__cpf__':
+    generate_cpf()
