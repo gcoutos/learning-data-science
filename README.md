@@ -1,4 +1,4 @@
-# learning-data-science
+# Cienstista de Dados do 0 ao PRO
 
 Olá! Seja Bem-Vindo(a) :wave:
 
