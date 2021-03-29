@@ -1,7 +1,7 @@
 # learning-data-science
 
-Olá! Seja Bem-vindo(a) :wave:
+Olá! Seja Bem-Vindo(a) :wave:
 
 Neste repositório compartilharei meu aprendizado em Ciência de Dados :mortar_board: :bar_chart: 
 
-O primeiro diretório adicionado será o do curso de Cientista de Dados da Mentorama! Nele estarão os exercícios realizados em arquivos _.ipynb_, produzidos com a ferramenta _JupyterLab_. 
+Aqui estarão os exercícios de cada módulo desenvolvidos no curso Ciêntista de Dados do 0 ao PRO da Mentorama!
